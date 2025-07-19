@@ -1,9 +1,6 @@
 # 🔌 Ideal Voltage-Controlled Switches
 
 This project explores the design and analysis of two voltage-controlled switches that aim to replicate the behavior of an ideal switch—zero voltage drop in the “ON” state, infinite resistance in the “OFF” state, instantaneous switching, and zero power loss.
-
-Developed as part of the *Electronic Devices and Circuits 1 (2EI4)* course at McMaster University, the project includes simulations, physical implementations, and performance analysis of both switch designs.
-
 ---
 
 ## 📁 Project Contents
@@ -44,20 +41,4 @@ Developed as part of the *Electronic Devices and Circuits 1 (2EI4)* course at Mc
 - Breadboard and discrete components
 - Oscilloscope and math channels for data analysis
 
----
-
-## 📚 References
-
-1. Razaghian & Bonakdarpour (2012) – Reducing leakage current in floating-gate circuits  
-2. Electronics-Tutorials.ws – MOSFET switching  
-3. Mouser Datasheets – MC14007UB
-
----
-
-## 👨‍🔧 Author
-
-**Ahmad Molhim**  
-McMaster University – Student ID: 400440228
-
----
 
